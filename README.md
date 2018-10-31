@@ -1,6 +1,6 @@
 #  torodb  with hasura graphql-engine
 
-use torodb let  mongodo support graphql api with some config 
+use torodb let  mongodb support graphql api with some config 
 
 no coding
 
